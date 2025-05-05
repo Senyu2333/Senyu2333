@@ -24,9 +24,9 @@ Welcome to my GitHub profile! I'm a student at **Chongqing University of Posts a
 
 ## 📈 GitHub Stats
 
-![Senyu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Senyu233&show_icons=true&count_private=true&hide=prs&hide_title=true&theme=radical)
+![Senyu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Senyu2333&show_icons=true&count_private=true&hide=prs&hide_title=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Senyu233&layout=compact&hide=html&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Senyu2333&layout=compact&hide=html&theme=radical)
 
 ---
 
