@@ -7,7 +7,6 @@ Welcome to my GitHub profile! I'm a student at **Chongqing University of Posts a
 
 ## 📫 How to reach me:
 - Email: [1243669851@qq.com](mailto:1243669851@qq.com)
-- Blog: [Sentra233's Blog](https://blog.csdn.net/Sentra233)
 
 ---
 
